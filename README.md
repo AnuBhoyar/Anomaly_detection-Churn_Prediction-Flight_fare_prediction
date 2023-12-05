@@ -3,9 +3,7 @@
 Predicted if transaction is fraud or normal on credit card data of 283K transactions using anomaly
 detection algorithms like isolated forest, LOF, KNN resulted in precision of 0.9.
 
-Performed Exploratory data Analysis to understand patterns in Data and also tried data sampling techniques as data is imbalaced and on balanced data Decision tree gave best results.
-
-Also applied other classification algorithms like Decision tree classifier,Logistic Regression,Knn,RandomForestClassifier,AdaBoostClassifier,GradientBoostingClassifier. Among all these Knn gave precision and accuracy of 0.99.
+Also applied other classification algorithms like Decision tree classifier,Logistic Regression,RandomForestClassifier,AdaBoostClassifier,XGBoost Classifier.
 
 # Flight_Fare_Prediction
 Performed data preprocessing, Exploratory Data Analysis, feature engineering and Data Visualization.
